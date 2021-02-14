@@ -1,7 +1,7 @@
-#Machine Learning to Predict auction volumes
+# Machine Learning to Predict auction volumes
 
 Edgar Jullien, Antoine Settelen, Simon Weiss
-
+~ 2 weeks dev
 
 
 ## Introduction
