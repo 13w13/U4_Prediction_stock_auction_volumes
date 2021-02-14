@@ -111,7 +111,7 @@ https://fingfx.thomsonreuters.com/gfx/mkt/12/4751/4713/closing%20auctions.png
 
 ### Description of the steps : 
 
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1meUYY9LWDHXsH4zoF8dyaaCjZiiaDTLW) 
 
 - Step 0 : load drive in google collab
 - Step 1 : Implement benchmark methodology used by challenge provider
